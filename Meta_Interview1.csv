@@ -1,0 +1,20 @@
+/*
+# Given two parameters (your choice of command line args, STDIN, standalone function, etch leer
+# print out the $count words that occur the most in sfile.
+#
+# For example, I might give you the path- to a file containing text of a long news article won
+# 10 most frequent ly occurring words. The words should be ordered in descending arder by their
+#
+# Example call and output:
+# $ ./concordance book.txt 10
+# the
+# and
+# of
+# to
+# a
+# in
+# it
+# his
+# i
+# that
+*/
