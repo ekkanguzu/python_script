@@ -5,6 +5,7 @@
 # For example, I might give you the path- to a file containing text of a long news article won
 # 10 most frequent ly occurring words. The words should be ordered in descending arder by their
 #
+#
 # Example call and output:
 # $ ./concordance book.txt 10
 # the
