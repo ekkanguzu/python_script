@@ -6,8 +6,8 @@
 
 def mini_max_sum(array):
     # Write your code here
-    mini = array[0:-1]
-    maxi = array[1: len(array)]
+    mini = array[0:4]
+    maxi = array[1:]
 
     mini_result = sum(mini)
     maxi_result = sum(maxi)
