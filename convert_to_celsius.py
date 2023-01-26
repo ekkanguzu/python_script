@@ -1,5 +1,4 @@
-# Let's take a break from working on "Fantasy Quest" for a moment. Instead, we will use what we've learned
-# to build a function we could use in the real world.
+
 # Write a function called to_celsius that converts a temperature in Fahrenheit to Celsius.
 
 # celsius = 5/9 * (fahrenheit-32)
