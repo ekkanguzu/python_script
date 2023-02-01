@@ -1,2 +1,2 @@
 # python_script
-# test
+This repository is intended for problem-solving exercices and fun
