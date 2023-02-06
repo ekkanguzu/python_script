@@ -1,11 +1,10 @@
-
 def bubble_sort(elements):
     size = len(elements)
-    for i in range(size-1):
+    for i in range(size - 1):
         swapped = False
-        for j in range(size-1-i):
-            if elements[j] > elements[j+1]:
-                elements[j], elements[j+1] = elements[j+1], elements[j]
+        for j in range(size - 1 - i):
+            if elements[j] > elements[j + 1]:
+                elements[j], elements[j + 1] = elements[j + 1], elements[j]
                 swapped = True
 
         if not swapped:
